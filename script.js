@@ -1,0 +1,23 @@
+let a = 1000
+let b = 7
+let c = a-b
+alert ("1000-7")
+alert ("Зачем")
+alert ("993-7")
+alert ("986-7")
+alert ("979-7")
+alert ("972-7")
+alert("ХВАТИТ ТЫКАТЬ")
+alert("968-7")
+alert("961-7")
+alert("954-7")
+alert("947-7")
+alert("940-7")
+alert("933-7")
+alert("Мне надоело писать код....")
+alert("926-7")
+alert("919-7")
+alert("912-7")
+alert("905-7")
+alert("898-7")
+alert("задрал")
